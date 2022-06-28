@@ -3,7 +3,7 @@
 ## Biz kimiz? A Studios 2019 yılında kurulmuş olup birçok projeye imza atmıştır.
 
 # Projelerimiz:
-    - TELAMON 'soon'
+    - TELAMON PORT SCANNER
     - ANKA DARK THEME
 
 <a href="instagram.com/astudios_tr">Instagram</a> 
